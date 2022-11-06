@@ -1,0 +1,47 @@
+body {
+    background-color: #FFB703;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+#heading {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #023047;
+}
+
+
+table,
+tr,
+th,
+td {
+    border: 1px solid #023047;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    min-width: 100%;
+    width: auto;
+    color: #023047;
+
+}
+
+th{
+    background-color: #023047;
+    color: #ffffff;
+}
+tr{
+    background-color: #8ECAE6;
+}
+
+
+.code {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2,
+h3,
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #023047;
+
+}
