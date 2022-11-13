@@ -4,6 +4,14 @@ body {
     padding: 0.5rem;
 }
 
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 #hero-heading {
     text-align: center;
     font-family: monospace;
